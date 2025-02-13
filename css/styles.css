@@ -91,10 +91,9 @@ nav a.active {
     display: flex;
     align-items: center;
     width: 100%;
-    min-height: 100vh;
-    height: auto;
+    height: 100vh;
     background-color: #111111;
-    padding: 120px 10% 50px;
+    padding: 0 10%;
 }
 
 .home-content h1 {
@@ -334,12 +333,12 @@ nav a.active {
     flex-direction: column;
     align-items: left;
     justify-content: center;
-    border: 1px solid #b74b4b;
     border-radius: 2px;
     background-color: #151515;
     cursor: default;
     text-decoration: none;
-    transition: border 0.2s ease-in-out;
+    border: 1px solid transparent;
+    transition: border 0.2s ease-in-out, border-color 0.2s ease-in-out;
 }
 
 .dev-box h2 {
@@ -362,6 +361,9 @@ nav a.active {
     margin-top: 30px;
 }
 
+.dev-box:hover {
+    border-color: #b74b4b;
+}
 /* Pagina de Conhecimentos */
 
 .xp {   
@@ -543,4 +545,3 @@ nav a.active {
     opacity: 1;
     transform: translateY(0);
   }
-  

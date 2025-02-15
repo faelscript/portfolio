@@ -308,7 +308,6 @@ nav a.active {
     font-weight: 450;
 }
 
-
 .view-project {
     font-size: 1.7rem;
     color: #b74b4b;
@@ -324,7 +323,42 @@ nav a.active {
 
 /* Projetos em Desenvolvimento */
 
-.dev-box {
+.dev-box1 {
+    width: 350px;
+    height: 240px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    border-radius: 2px;
+    background-color: #151515;
+    cursor: default;
+    text-decoration: none;
+    border: 1px solid #b74b4b;
+    transition: border 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.dev-box1 h2 {
+    font-size: 2.2rem;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.dev-box1 p {
+    font-size: 1.6rem;
+    color: #a3a3a3fb;
+    font-weight: 450;
+}
+
+.view-project {
+    font-size: 1.7rem;
+    color: #b74b4b;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.dev-box2 {
     width: 350px;
     height: 240px;
     padding: 30px;
@@ -340,13 +374,13 @@ nav a.active {
     transition: border 0.2s ease-in-out, border-color 0.2s ease-in-out;
 }
 
-.dev-box h2 {
+.dev-box2 h2 {
     font-size: 2.2rem;
     color: #ffffff;
     margin-bottom: 30px;
 }
 
-.dev-box p {
+.dev-box2 p {
     font-size: 1.6rem;
     color: #a3a3a3fb;
     font-weight: 450;
@@ -360,9 +394,10 @@ nav a.active {
     margin-top: 30px;
 }
 
-.dev-box:hover {
+.dev-box2:hover {
     border-color: #b74b4b;
 }
+
 /* Pagina de Conhecimentos */
 
 .xp {   

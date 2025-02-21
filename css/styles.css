@@ -370,7 +370,7 @@ nav a.active {
     background-color: #151515;
     cursor: default;
     text-decoration: none;
-    border: 1px solid transparent;
+    border: 1px solid #b74b4b;
     transition: border 0.2s ease-in-out, border-color 0.2s ease-in-out;
 }
 
@@ -384,7 +384,6 @@ nav a.active {
     font-size: 1.6rem;
     color: #a3a3a3fb;
     font-weight: 450;
-    margin-bottom: 55px;
 }
 
 .view-project {
@@ -392,10 +391,6 @@ nav a.active {
     color: #b74b4b;
     font-weight: 500;
     margin-top: 30px;
-}
-
-.dev-box2:hover {
-    border-color: #b74b4b;
 }
 
 /* Pagina de Conhecimentos */

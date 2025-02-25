@@ -308,13 +308,6 @@ nav a.active {
     font-weight: 450;
 }
 
-.view-project {
-    font-size: 1.7rem;
-    color: #b74b4b;
-    font-weight: 500;
-    margin-top: 30px;
-}
-
 .projects-box:hover {
     background-color: transparent;  
     color: #b74b4b;
@@ -351,13 +344,6 @@ nav a.active {
     font-weight: 450;
 }
 
-.view-project {
-    font-size: 1.7rem;
-    color: #b74b4b;
-    font-weight: 500;
-    margin-top: 30px;
-}
-
 .dev-box2 {
     width: 350px;
     height: 240px;
@@ -370,8 +356,12 @@ nav a.active {
     background-color: #151515;
     cursor: default;
     text-decoration: none;
-    border: 1px solid #b74b4b;
+    border: 1px solid #151515;
     transition: border 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.dev-box2:hover {
+    border: 1px solid #b74b4b;
 }
 
 .dev-box2 h2 {
@@ -384,6 +374,7 @@ nav a.active {
     font-size: 1.6rem;
     color: #a3a3a3fb;
     font-weight: 450;
+    margin-bottom: 50px;
 }
 
 .view-project {

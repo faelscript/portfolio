@@ -1,4 +1,4 @@
-## Portfólio // Rafael Abdala
+## Portfólio // Rafael Bantel
 
 <img src="/images/portfolio.png" alt="Imagem do Portfolio">
 

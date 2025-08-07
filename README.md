@@ -14,7 +14,7 @@ Aqui vai algumas seções que terá no meu portfólio:
 - **Experiências:** Nesta seção mostro minhas experiências;
 - **Projetos:** Mostro alguns dos meus projetos;
 - **Conhecimentos:** Apresento meus conhecimentos que possuo na área;
-- **Sobre mim:** Um botão que redireciona para página contando mais de mim.
+- **Github:** Um botão que redireciona para página do meu perfil do GitHub.
 
 ## 💻 Tecnologias utilizadas
 

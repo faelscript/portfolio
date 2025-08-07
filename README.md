@@ -29,7 +29,7 @@ Aqui vai algumas seções que terá no meu portfólio:
       <a href="https://github.com/faelscript">
         <img src="https://avatars.githubusercontent.com/u/84042023?v=4" width="100px;" alt="Minha foto"/><br>
         <sub>
-          <b>Rafael Abdala</b>
+          <b>Rafael Bantel</b>
         </sub>
       </a>
   </tr>

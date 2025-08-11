@@ -149,100 +149,7 @@ nav a.active {
 
 /* Pagina de Experiencias */
 
-.skills {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    height: 100vh;
-    background-color: #151515;  
-    padding: 0 10%;
-}   
 
-.skills-content {
-    text-align: center;
-}
-
-.skills-content h1 {
-    font-size: 3rem;
-    font-weight: 500;
-    line-height: 1.3;
-    color: #ffffff;
-}
-
-.skills-content span {
-    color: #b74b4b;
-}
-
-/* Escola SAGA */
-
-.saga {
-    margin-top: 50px;
-    padding: 20px;
-    border-left: 3px solid #b74b4b;
-}
-
-.saga h1 {
-    color: #ffffff;
-    font-size: 2rem;
-}
-
-.saga h2 {
-    margin-top: 20px;
-    color: #b74b4b;
-    font-size: 1.8rem;
-    font-weight: 700;
-}
-
-.saga p {
-    margin-top: 15px;
-    color: #a3a3a3fb;
-    font-size: 1.5rem;
-    font-weight: 450;
-    max-width: 500px;
-}
-
-.saga .data {
-    color: #a3a3a3fb;
-    font-size: 2rem;
-    font-weight: 400;
-    margin-left: 100px;
-}
-
-/* Ciencia da Computação */
-
-.cicomp {
-    margin-top: 50px;
-    padding: 20px;
-    border-left: 3px solid #b74b4b;
-}
-
-.cicomp h1 {
-    color: #ffffff;
-    font-size: 2rem;
-}
-
-.cicomp h2 {
-    margin-top: 20px;
-    color: #b74b4b;
-    font-size: 1.8rem;
-    font-weight: 700;
-}
-
-.cicomp p {
-    margin-top: 15px;
-    color: #a3a3a3fb;
-    font-size: 1.5rem;
-    font-weight: 450;
-    max-width: 500px;
-}
-
-.cicomp .data {
-    color: #a3a3a3fb;
-    font-size: 2rem;
-    font-weight: 400;
-    margin-left: 70px;
-}
 
 /* Pagina de Projetos */
 
@@ -576,15 +483,15 @@ nav a.active {
             }
 
             .logo {
-                font-size: 2rem;
+                font-size: 3rem;
             }
 
             .logo span {
-                font-size: 2rem;
+                font-size: 3rem;
             }
 
             nav a {
-                font-size: 1.5rem;
+                font-size: 2.5rem;
                 margin-left: 2rem;
             }
 

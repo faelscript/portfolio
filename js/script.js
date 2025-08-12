@@ -4,11 +4,6 @@ document.querySelectorAll('.icon-box').forEach(item => {
         const infoText = document.getElementById('info-text');
         infoText.textContent = info;
     });
-
-    item.addEventListener('mouseleave', () => {
-        const infoText = document.getElementById('info-text');
-        infoText.innerHTML = 'Aqui você encontrará os meus conhecimentos na área da tecnologia. <br> Passe o cursor encima para saber mais.';
-    });
 });
 
 function handleScroll() {
@@ -26,5 +21,3 @@ function handleScroll() {
   
   window.addEventListener('scroll', handleScroll);
   window.addEventListener('load', handleScroll);
-  
-  
